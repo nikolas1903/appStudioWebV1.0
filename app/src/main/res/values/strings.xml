@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Studio Web</string>
+    <string name="version">v1.0</string>
+    <string name="cpf_ou_cnpj">CPF ou CNPJ</string>
+    <string name="digite_nome">Digite seu Nome</string>
+    <string name="digite_cpf">Digite seu CPF/CNPJ</string>
+    <string name="digite_senha">Digite sua Senha</string>
+    <string name="digite_nova_senha">Digite sua nova senha</string>
+    <string name="confirme_senha">Confirme sua Senha</string>
+    <string name="digite_email">Digite seu E-mail</string>
+    <string name="digite_telefone">Digite seu Telefone</string>
+    <string name="digite_nascimento">Digite seu Nascimento</string>
+    <string name="senha">Senha</string>
+    <string name="sem_conta">Ainda não tem uma conta?</string>
+    <string name="registrar">Clique aqui e faça uma!</string>
+    <string name="registro_conta">Registro de contas</string>
+    <string name="edicao_conta">Edição de contas</string>
+    <string name="caracter_senha">Sua senha deve conter no mínimo 6 caracteres</string>
+    <string name="user">Usuário,</string>
+    <string name="user_nome">Nikolas Ferreira Silva</string>
+
+    <string name="alterar_dados">Alterar Dados</string>
+    <string name="logout">Sair</string>
+
+    <string name="email_completo">nikolas.ferreira99@gmail.com</string>
+    <string name="telefone_completo">(51) 9 9150-8987</string>
+    <string name="nascimento_completo">29/06/2000</string>
+    <string name="cpf_completo">868.465.150-20</string>
+
+    <string name="email">E-Mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="nascimento">Nascimento</string>
+    <string name="cpf">CPF</string>
+
+    <string name="versao_app">Versão do Aplicativo</string>
+
+
+    <string name="btn_acessar">Acessar</string>
+    <string name="btn_registrar">Registrar</string>
+
+</resources>
